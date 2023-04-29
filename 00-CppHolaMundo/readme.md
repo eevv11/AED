@@ -1,0 +1,1 @@
+* Compilador utilizado: Visual Studio Code 1.77.3
